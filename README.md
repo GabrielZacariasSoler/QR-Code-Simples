@@ -1,6 +1,6 @@
-# Biscoito da sorte - Trila Explorer
+# QR CODE SIMPLES
 
-![preview](./image/preview.png)
+![preview](./images/preview.png)
 
 > Projeto Simples de Aprimoramento de Habilidades em CSS e HTML
 
