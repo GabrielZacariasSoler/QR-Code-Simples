@@ -17,13 +17,12 @@ Neste projeto, você encontrará uma implementação prática dos conceitos de d
 - Explorar técnicas avançadas de estilização com CSS.
 - Ganhar confiança na tradução de um design visual para uma interface funcional.
 
-🔗 [Clique aqui para acessar](https://gabrielzacariassoler.github.io/QR-CODE-SIMPLES/)
+🔗 [Clique aqui para acessar](https://gabrielzacariassoler.github.io/QR-Code-Simples/)
 
 ## 🛠️ Tecnologias
 
 - HTML
 - CSS
-- JAVASCRIPT
 
 ## ❤️ Contato
 
